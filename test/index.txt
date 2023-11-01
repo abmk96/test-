@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<title>news site</title>
+
+  	</head>
+	<body>
+		<header>
+			<dev class:logo> 
+				<img src="./images/logo.png " alt: logo >
+			</dev>
+			<nav>
+				<ul>
+					<li><a>home</a></li>
+					<li><a>news</a></li>
+					<li><a>about us</a></li>
+					<li><a>contact us</a></li>
+				</ul>	
+			</nav>
+
+			
+		</header>
+		<main>
+			<dev class: header > 
+				<article>
+					bla bla bla bla 
+				</article>
+			</dev>
+			<dev class: container>
+				<card>
+					<h3>one</h3>
+					<dev class : img>
+						<img src="./images/logo.png " alt: logo >
+					</dev>
+					<p> bla bla bla bla bla  </p>
+
+				</card>
+				<card>
+					<h3>tow</h3>
+					<dev class : img>
+						<img src="./images/logo.png " alt: logo >
+					</dev>
+					<p> bla bla bla bla bla  </p>
+
+				</card>
+			</dev>
+				<card>
+					<h3>three</h3>
+					<dev class : img>
+						<img src="./images/logo.png " alt: logo >
+					</dev>
+					<p> bla bla bla bla bla  </p>
+
+				</card>
+			</dev>
+
+		</main>
+	</body>
+
+
+</html>
